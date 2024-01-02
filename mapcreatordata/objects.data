@@ -1,0 +1,17 @@
+<[ sprites ]
+
+upbggras = 'mapcreatordata\objects\obj6.png' 1 0 1
+up = 'mapcreatordata\objects\obj7.png' 1 0 1
+tree = 'mapcreatordata\objects\obj9.png' 1 0 1
+down = 'mapcreatordata\objects\obj8.png' 1 0 1
+mash = 'mapcreatordata\objects\mash_obj.png' 1 0 0
+mash_gun = 'mapcreatordata\objects\mash_gun_obj.png' 1 0 0
+player = 'mapcreatordata\objects\player_obj.png' 1 0 0
+mash_gun = 'mapcreatordata\objects\mash_gun_obj.png' 1 0 0
+obj1 = 'mapcreatordata\objects\obj11.png' 1 0 1
+obj2 = 'mapcreatordata\objects\obj12.png' 1 0 1
+obj3 = 'mapcreatordata\objects\obj_bg.png' 1 0 1
+obj4 = 'mapcreatordata\objects\obj_bg2.png' 1 0 1
+bee_house = 'mapcreatordata\objects\bee_house.png' 1 0 0
+
+>[ sprites ]

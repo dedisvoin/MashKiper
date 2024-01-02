@@ -1,0 +1,24 @@
+<[ sprites ]
+
+tiles_btn = 'mapcreatordata\setting_datas\tiles_btn.png' 1 0 1
+places_btn = 'mapcreatordata\setting_datas\places_btn.png' 1 0 1
+con_bt = 'mapcreatordata\setting_datas\con_btn.png' 1 0 1
+cona_bt = 'mapcreatordata\setting_datas\cona_btn.png' 1 0 1
+col_bt = 'mapcreatordata\setting_datas\col_btn.png' 1 0 1
+pen_bt = 'mapcreatordata\setting_datas\pen_btn.png' 1 0 1
+penb_bt = 'mapcreatordata\setting_datas\penb_btn.png' 1 0 1
+penr_bt = 'mapcreatordata\setting_datas\penr_btn.png' 1 0 1
+penrd_bt = 'mapcreatordata\setting_datas\penrd_btn.png' 1 0 1
+surfs_btn = 'mapcreatordata\setting_datas\surfs_btn.png' 1 0 1
+gridv_btn = 'mapcreatordata\setting_datas\gridw_btn.png' 1 0 1
+alp_btn = 'mapcreatordata\setting_datas\alp_btn.png' 1 0 1
+copy_btn = 'mapcreatordata\setting_datas\copy_btn.png' 1 0 1
+obj_btn = 'mapcreatordata\setting_datas\obj_btn.png' 1 0 1
+pen_obj = 'mapcreatordata\setting_datas\pen_obj.png' 1 0 1
+obj_viev_rect_btn = 'mapcreatordata\setting_datas\obj_viev_rects_btn.png' 1 0 1
+save_btn = 'mapcreatordata\setting_datas\save_btn.png' 1 0 1
+grass_btn = 'mapcreatordata\setting_datas\grass_btn.png' 1 0 1
+pen_grass = 'mapcreatordata\setting_datas\pen_grass.png' 1 0 1
+pen_col = 'mapcreatordata\setting_datas\pen_col.png' 1 0 1
+
+>[ sprites ]

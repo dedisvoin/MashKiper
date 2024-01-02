@@ -1,0 +1,9 @@
+<[ tilesheats ]
+
+newtiles = 'mapcreatordata\tilessheat\tilesheat15.png' 14 19
+grass = 'mapcreatordata\tilessheat\tilesheat16.png' 14 19
+grassbg = 'mapcreatordata\tilessheat\tilesheat17.png' 14 19
+grassbg2 = 'mapcreatordata\tilessheat\tilesheat18.png' 14 19
+grass3 = 'mapcreatordata\tilessheat\tilesheat19.png' 14 19
+
+>[ tilesheats ]

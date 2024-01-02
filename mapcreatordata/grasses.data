@@ -1,0 +1,13 @@
+<[ grass ]
+
+grass_1 = 'mapcreatordata\grasses\grass_1.png' 1
+grass_2 = 'mapcreatordata\grasses\grass_2.png' 1
+grass_3 = 'mapcreatordata\grasses\grass_3.png' 1
+grass_4 = 'mapcreatordata\grasses\grass_4.png' 1
+grass_5 = 'mapcreatordata\grasses\grass_5.png' 1
+grass_6 = 'mapcreatordata\grasses\grass_6.png' 1
+grass_7 = 'mapcreatordata\grasses\grass_7.png' 1
+grass_8 = 'mapcreatordata\grasses\grass_8.png' 1
+grass_9 = 'mapcreatordata\grasses\grass_9.png' 1
+
+>[ grass ]
